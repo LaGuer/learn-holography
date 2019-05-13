@@ -1,3 +1,5 @@
+## learn-holography
+
 This repository contains some notes, diagrams and animations
 developed to learn holography
 and specifically computer-generated holography (CGH).
