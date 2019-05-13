@@ -18,7 +18,7 @@ var obj = [
 //      |  red  |  orange  |  yellow  |  green  |  blue  |  purple  |</pre>
 //   - [wavelengths of commercially available lasers](http://upload.wikimedia.org/wikipedia/commons/4/48/Commercial_laser_lines.svg)
 //   - 632.816 nm = wavelength of a typical red Neon-Helium (NeHe) laser in air.
-var lambda = 633e-9;
+var lambda = 632e-9;
 
 // wavenumber: spatial angular frequency (radians per meter)
 // this represents the number of cycles the wave completes per unit distance
